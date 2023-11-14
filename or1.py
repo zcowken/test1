@@ -6,3 +6,5 @@ print("asd")
 print("ads")
 
 print("asdads")
+
+print("adasd")
